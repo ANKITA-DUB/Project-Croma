@@ -1,5 +1,14 @@
 Name:
 Age:
-Contact:
 Address:
-
+phoneNo:
+Email-Address:
+Expected slary:
+current CTC:
+Name:
+Age:
+Address:
+phoneNo:
+Email-Address:
+Expected slary:
+current CTC:
