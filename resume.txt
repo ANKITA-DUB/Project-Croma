@@ -2,5 +2,6 @@ Name:
 Age:
 Address:
 Email-Address:
-Expected salary:
+Phone no:
 Current ctc:
+Expected salary:
